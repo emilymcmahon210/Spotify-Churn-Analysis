@@ -70,9 +70,9 @@ Based on the analysis, the following strategies are recommended:
 ## Project Structure
 
 Spotify-Churn-Analysis/
-│
-├── Spotify_Churn_Analysis.ipynb
-├── spotify_churn_dataset.csv
 
+- **Spotify_Churn_Analysis.ipynb** – Main notebook containing data analysis, visualizations, and modeling  
+- **spotify_churn_dataset.csv** – Dataset used for the project
+- 
 ## Author
 Emily McMahon | Data Analytics & Business Professional
